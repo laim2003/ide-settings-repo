@@ -1,0 +1,5 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="pathToEclipse" value="$[IDE_HOME]/software/eclipse" />
+  </component>
+</application>

@@ -1,1 +1,3 @@
 Setup was succesful
+
+If this message is shown, the project has been created succesfully.
